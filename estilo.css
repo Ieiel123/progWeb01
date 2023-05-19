@@ -1,0 +1,15 @@
+body{Background:url("wpp.jpg") fixed;}
+.cabecalho{Background-color:white;
+    padding:10px;
+    margin:1px;
+}
+.corpo{
+    text-align:center;
+    font-size:24px;
+    width:600;
+    padding:10px;
+}
+.rodape{Background-color:white;
+    width:1500px;
+    padding:5px;
+}
